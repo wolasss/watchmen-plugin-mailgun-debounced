@@ -1,0 +1,20 @@
+{
+  "name": "watchmen-plugin-mailgun-debounced",
+  "version": "1.0.0",
+  "description": "Notifications via Mialgun for watchmen",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wolasss/watchmen-plugin-mailgun-debounced.git"
+  },
+  "author": {
+    "name": "Adam Wolski",
+    "email": "contact@adamwolski.com",
+    "url": "http://adamwolski.com.com"
+  },
+  "dependencies": {
+    "mailgun-js": "^0.22.0",
+    "moment": "^2.24.0",
+    "validator": "^12.2.0"
+  }
+}
