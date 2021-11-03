@@ -15,6 +15,6 @@
   "dependencies": {
     "mailgun-js": "^0.22.0",
     "moment": "^2.24.0",
-    "validator": "^12.2.0"
+    "validator": "^13.7.0"
   }
 }
